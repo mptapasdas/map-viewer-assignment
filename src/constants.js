@@ -80,4 +80,4 @@ export const distance = (lat1, lng1, lat2, lng2) => {
 };
 
 export const paragraph =
-    "I have spent around 4-5 hours on this project. My main goal was just to render the charging stations on the map. \n This map needs an API Key which requires a Credit Card validation, which I dont have right now. So it may show that Map can not be viewed properly. Also, I did not spend much time on styling as of now";
+    "I have spent around 4-5 hours on this project. Around 1 hour for going through documentation and rest for writing the code. My main goal was just to render the charging stations on the map. \n This map needs an API Key which requires a Credit Card validation, which I dont have right now. So it may show that Map can not be viewed properly. Also, I did not spend much time on styling as of now.";
